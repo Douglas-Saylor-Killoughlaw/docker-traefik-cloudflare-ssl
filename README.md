@@ -9,7 +9,7 @@ Roll up a web server with docker, traefik, cloudflare
 `cd configs && >acme.json`
 
 (Correct Permissions)
-`chmod ./configs/acme.json`
+`chmod 600 ./configs/acme.json`
 
 # RUN
 `docker-compose up -d`

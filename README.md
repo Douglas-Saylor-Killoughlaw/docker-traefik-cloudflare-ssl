@@ -1,4 +1,4 @@
-# docker-traefik-cloudflare
+# docker-traefik-cloudflare-ssl
 Roll up a web server with docker, traefik, cloudflare
 
 # Create traefik basic auth user and password
